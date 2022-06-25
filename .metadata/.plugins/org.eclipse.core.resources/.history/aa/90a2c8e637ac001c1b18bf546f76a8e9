@@ -1,0 +1,17 @@
+package app_java_1;
+
+public class A {
+	static int id=10;
+public static void main(String[] args) {
+
+	A a1= new A();
+	
+//	System.out.println(a1);
+	a1.test();
+}
+ public void test() {
+//	 System.out.println(this.id);
+ }
+}
+
+d
